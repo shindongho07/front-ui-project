@@ -6,13 +6,13 @@ import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAoypLkPmCxDKpYvpJFGMbAhj5oDh1KfzM",
-  authDomain: "chat1-d26c0.firebaseapp.com",
-  databaseURL: "https://chat1-d26c0-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "chat1-d26c0",
-  storageBucket: "chat1-d26c0.appspot.com",
-  messagingSenderId: "76212326603",
-  appId: "1:76212326603:web:03225ad6fa118d01bacb4e"
+  apiKey: **************************
+  authDomain:  **************************
+  databaseURL:  **************************
+  projectId:  **************************
+  storageBucket:  **************************
+  messagingSenderId:  **************************
+  appId: **************************
 };
 
 // Initialize Firebase
